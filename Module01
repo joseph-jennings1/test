@@ -1,0 +1,20 @@
+<body>
+		<h1><img alt="Module 01: Introduction to HTML" ></h1>
+		<h2><img alt="Created by: Joe Jennings" </h2>
+		<p>
+			<a href="https://www.allrecipes.com/recipe/261325/roasted-eggplant-pastitsio/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_trending_b"><img src="https://www.allrecipes.com/recipe/261325/roasted-eggplant-pastitsio/photos/4577103/" id="Eggplant" alt="Roasted Eggplant Pastitsio" width=200 height=200></a>
+			<a href="https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades"><img title="Worlds Best Lasagna" alt="Worlds Best Lasagna" src="https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/photos/3359675/" width=200 height=200></a>
+			<img title="Zucchini Cake" alt="Zucchini Cake" src="images/zucchini-cake.jpg">
+		</p><figure>
+			<img title="Individual Chocolate Cakes" alt="Chocolate Islands" src="images/chocolate-islands.jpg">
+			<p>
+				</p><figcaption>
+					This recipe for individual chocolate cakes is so simple and so delectable!
+				</figcaption>
+			<p></p>
+		</figure>
+		<h4>More Recipes:</h4>
+		
+	
+</body>
+<a href=""></font><img src="images/triangle.png" id="triangle" alt="trinagle from twitter bird"></a>
