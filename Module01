@@ -5,9 +5,11 @@
 
 	<head>
 		<title>Module 01</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
 	</head>
 
-<body>
+	<body>
 		<h1>Module 01: Introduction to HTML</h1>
 		<h2>Created by: Joe Jennings </h2>
 		<hr>
@@ -40,7 +42,7 @@
 		
 		
 	
-</body>
+	</body>
 
 </html>
 
