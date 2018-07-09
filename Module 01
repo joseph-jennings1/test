@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+ <html lang="en">
+
+
+
+	<head>
+		<title>Module 01</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+	</head>
+
+	<body>
+		<h1>Module 01: Introduction to HTML</h1>
+		<h2>Created by: Joe Jennings </h2>
+		<hr>
+				
+		<p>
+		<h3> This Peppered Shrimp Alfredo recipe is my favorite!</h3>
+		
+		
+		<figure>
+			<a href="https://www.allrecipes.com/recipe/133128/peppered-shrimp-alfredo/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank><img title="Peppered Shrimp Alfredo" alt="Shrimp Alfredo" src="https://images.media-allrecipes.com/userphotos/720x405/4095462.jpg"></a>
+			
+			<p></p>
+		</figure>
+		
+		<h4>More Recipes:</h4>
+		
+		<p>
+			<a href="https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank><img  src="https://images.media-allrecipes.com/userphotos/720x405/3359675.jpg" id="WorldsBestLasagna" alt="Worlds Best Lasagna" width=300 height=200></a>
+			<a href="https://www.allrecipes.com/recipe/229960/shrimp-scampi-with-pasta/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank><img src="https://images.media-allrecipes.com/userphotos/600x600/2606852.jpg" id="Scampi" alt="Schrimp Scampi with Pasta" width=200 height=200></a>
+			<a href="https://www.allrecipes.com/recipe/261325/roasted-eggplant-pastitsio/?clickId=right%20rail0&internalSource=rr_feed_recipe_sb&referringId=23600%20referringContentType%3Drecipe" target=_blank><img src="https://images.media-allrecipes.com/userphotos/720x405/4577103.jpg" id="Eggplant" alt="Roasted Eggplant Pastitsio" width=300 height=200></a>	
+
+		</p>
+		
+		<p>
+			<a href="https://www.allrecipes.com/recipe/112157/tuna-garden-casserole/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank><img src="https://images.media-allrecipes.com/userphotos/720x405/2612868.jpg" id="TunaCasserole" alt="Tuna Garden Casserole" width=300 height=200></a>
+			<a href="https://www.allrecipes.com/recipe/246866/rigatoni-alla-genovese/" target=_blank><img src="https://images.media-allrecipes.com/userphotos/720x405/3489951.jpg" id="Rigatoni" alt="Rigatoni Alla Genovese" width=300 height=200></a>
+
+			
+		</p>
+		
+		
+	
+	</body>
+
+</html>
+
