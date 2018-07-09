@@ -1,20 +1,46 @@
+<!DOCTYPE HTML>
+ <html lang="en">
+
+<html>
+
+<head>
+		<title>Module 01</title>
+	</head>
+
 <body>
-		<h1><img alt="Module 01: Introduction to HTML" ></h1>
-		<h2><img alt="Created by: Joe Jennings" </h2>
+		<h1>Module 01: Introduction to HTML</h1>
+		<h2>Created by: Joe Jennings </h2>
+		<hr>
+				
 		<p>
-			<a href="https://www.allrecipes.com/recipe/261325/roasted-eggplant-pastitsio/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_trending_b"><img src="https://www.allrecipes.com/recipe/261325/roasted-eggplant-pastitsio/photos/4577103/" id="Eggplant" alt="Roasted Eggplant Pastitsio" width=200 height=200></a>
-			<a href="https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades"><img title="Worlds Best Lasagna" alt="Worlds Best Lasagna" src="https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/photos/3359675/" width=200 height=200></a>
-			<img title="Zucchini Cake" alt="Zucchini Cake" src="images/zucchini-cake.jpg">
-		</p><figure>
-			<img title="Individual Chocolate Cakes" alt="Chocolate Islands" src="images/chocolate-islands.jpg">
-			<p>
-				</p><figcaption>
-					This recipe for individual chocolate cakes is so simple and so delectable!
-				</figcaption>
+		<h3> This Peppered Shrimp Alfredo recipe is my favorite!</h3>
+		</p>
+		
+		<figure>
+			<a href="https://www.allrecipes.com/recipe/133128/peppered-shrimp-alfredo/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank><img title="Peppered Shrimp Alfredo" alt="Shrimp Alfredo" src="https://images.media-allrecipes.com/userphotos/720x405/4095462.jpg"></a>
+			
 			<p></p>
 		</figure>
+		
 		<h4>More Recipes:</h4>
+		
+		<p>
+			<a href="https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank></font><img  src="https://images.media-allrecipes.com/userphotos/720x405/3359675.jpg" id="Worlds Best Lasagna" alt="Worlds Best Lasagna"width=300 height=200></a>
+			<a href="https://www.allrecipes.com/recipe/229960/shrimp-scampi-with-pasta/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank></font><img src="https://images.media-allrecipes.com/userphotos/600x600/2606852.jpg" id="Scampi" alt="Schrimp Scampi with Pasta" width=200 height=200></a>
+			<a href="https://www.allrecipes.com/recipe/261325/roasted-eggplant-pastitsio/?clickId=right%20rail0&internalSource=rr_feed_recipe_sb&referringId=23600%20referringContentType%3Drecipe" target=_blank></font><img src="https://images.media-allrecipes.com/userphotos/720x405/4577103.jpg" id="Eggplant" alt="Roasted Eggplant Pastitsio" width=300 height=200></a>	
+
+		</p>
+		
+		<p>
+			<a href="https://www.allrecipes.com/recipe/112157/tuna-garden-casserole/?internalSource=streams&referringId=95&referringContentType=recipe%20hub&clickId=st_recipes_mades" target=_blank></font><img src="https://images.media-allrecipes.com/userphotos/720x405/2612868.jpg" id="Tuna Casserole" alt="Tuna Garden Casserole" width=300 height=200></a>
+			<a href="https://www.allrecipes.com/recipe/246866/rigatoni-alla-genovese/" target=_blank></font><img src="https://images.media-allrecipes.com/userphotos/720x405/3489951.jpg" id="Rigatoni" alt="Rigatoni Alla Genovese" width=300 height=200></a>
+
+			
+		</p>
+		
 		
 	
 </body>
-<a href=""></font><img src="images/triangle.png" id="triangle" alt="trinagle from twitter bird"></a>
+
+</html>
+
